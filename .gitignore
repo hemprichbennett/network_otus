@@ -3,3 +3,4 @@
 .RData
 .Ruserdata
 *.fasta
+.DS_Store
