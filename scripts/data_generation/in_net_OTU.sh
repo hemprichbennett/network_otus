@@ -14,6 +14,4 @@
 module load R
 
 
-Rscript /data/scratch/btw863/network_OTUs_paper/scripts/data_generation/fine_network_netlevel.R
-
-
+Rscript /data/scratch/btw863/network_OTUs_paper/scripts/data_generation/fine_network_netlevel.R ${SGE_TASK_ID}
