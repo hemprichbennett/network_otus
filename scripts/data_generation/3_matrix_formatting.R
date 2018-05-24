@@ -59,7 +59,7 @@ for(iteration in 1:length(net_files)){
     to_delete <- which(colnames(net) %in% badcols) #some of the columns sadly contain unmatched samples. This removes them, as we don't know what species they are
     net <- net[,-to_delete]
   } 
-  if(grepl('Texas', net_name)){
+  if(grepl('Texas', net_name)){ #As the samples were collected over many years the names aren't standardised, this sorts them
     to_kill <- grep('Ef', colnames(net))
     net <- net[,-to_kill] #These belong to eumops floridensis, which was from a different site
     colnames(net) <- gsub('AP', 'Ap', colnames(net))
@@ -69,7 +69,9 @@ for(iteration in 1:length(net_files)){
     colnames(net) <- gsub('NM', 'Nyma', colnames(net))
     colnames(net) <- gsub('NyMa', 'Nyma', colnames(net))
     colnames(net) <- gsub('Myca', 'Mc', colnames(net))
+    colnames(net) <- gsub('MyCa', 'Mc', colnames(net))
     colnames(net) <- gsub('TaBr', 'Tb', colnames(net))
+    colnames(net) <- gsub('EP', 'Eper', colnames(net))
   }
   if(!grepl('SAFE', net_name)){ #!! 
     
@@ -107,8 +109,6 @@ for(iteration in 1:length(net_files)){
     
     net <- new_mat
   }
-  if(grepl('Texas', net_name)){
-    break()}
   outdir <- paste('adjacency_matrixes/',net_name, sep = '')
   dir.create(file.path(outdir), showWarnings = T)
   write.csv(net, paste(outdir, 'matrix.csv', sep = '/'))
