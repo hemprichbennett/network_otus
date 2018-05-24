@@ -1,0 +1,6 @@
+for i in $(seq 910 2 980);
+do mkdir OTU_$i
+pick_otus.py -i all_post_QC.txt -o OTU_$i -s 0.$i
+pick_rep_set.py -i OTU_$i/all_post_QC_otus.txt -f all_post_QC.txt -m most_abundant -o OTU_$i/reps_$i.fasta
+perl /Users/davidhemprich-bennett/Dropbox/Education/PhD/Scripts/Clare\ lab\ scripts/Galaxy-R\ workflow/5-MakeQIIMEOTUtable.pl OTU_$i/all_post_QC_otus.txt
+done

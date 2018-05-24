@@ -1,0 +1,6 @@
+for i in $(seq 910 2 980);
+do mkdir OTU_$i
+pick_otus.py -i Costa_Rica_Beth.fasta -o OTU_$i -s 0.$i
+pick_rep_set.py -i OTU_$i/Costa_Rica_Beth_otus.txt -f Costa_Rica_Beth.fasta -m most_abundant -o OTU_$i/reps_$i.fasta
+perl /Users/davidhemprich-bennett/Dropbox/Education/PhD/Scripts/Clare\ lab\ scripts/Galaxy-R\ workflow/5-MakeQIIMEOTUtable.pl OTU_$i/Costa_Rica_Beth_otus.txt
+done
