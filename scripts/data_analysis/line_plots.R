@@ -50,9 +50,10 @@ df$metric <- gsub('LL', 'lower', df$metric)
 
 df[which(df$metric == 'SA'),'metric'] <- 'Specialisation asymmetry'
 df[which(df$metric == 'ISA'),'metric'] <- 'Interaction strength asymmetry'
-#df$metric <- as.factor(df$metric)
+df$metric <- firstup(df$metric)
 
-df <- df[-which(df$metric == 'number_of_species_higher'),]#There is zero point in plotting the values for this metric, they never change!
-df$trial_clustering <- df$clustering*10
-line_plot(df, network = 'network', clustering = 'trial_clustering', metric = 'metric', value = 'value')
+df <- df[-grep('coefficient', df$metric),]#There is zero point in plotting the values for this metric, they never change!
+#df$trial_clustering <- df$clustering*10
+line_plot(df, network = 'network', clustering = 'trial_clustering', metric = 'metric', value = 'value', plotname = '7 networks')
 
+line_plot(df[grep('Guanacaste', df$network),], network = 'network', clustering = 'trial_clustering', metric = 'metric', value = 'value', plotname = '2 networks')
