@@ -1,5 +1,10 @@
-#rm(list=ls())
-
+##################################################
+## Project: Network OTUs
+## Script purpose: This script makes scatterplots of all of the metrics output from LOTUS
+## Date: 25/05/18
+## Author: Dave Hemprich-Bennett (hemprich.bennett@gmail.com)
+## Notes
+##################################################
 library(plyr)
 library(ggplot2)
 library(here)
