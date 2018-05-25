@@ -132,13 +132,13 @@ if(metric== 'specialisation asymmetry'){metric <- 'SA'}
 if(participant_metric == TRUE){
   
   out_metric <- metcalcs(networks = netlist, indices = metric, network_level = part, list_format = 'net_clust')
-  outfilename <- paste('finenetworklevel_values/',metric, '_', part, '.csv', sep = '')
+  outfilename <- paste('finenetworklevel_values/',gsub(' ', '_', metric), '_', part, '.csv', sep = '')
   cat('outfile name is ', outfilename, '\n', sep = '')
   write.csv(out_metric, outfilename)
 }else{
   out_metric <- metcalcs(networks = netlist, indices = metric, list_format = 'net_clust')
   
-  outfilename <- paste('finenetworklevel_values/',metric, '.csv', sep = '')
+  outfilename <- paste('finenetworklevel_values/',gsub(' ', '_', metric), '.csv', sep = '')
   cat('outfile name is ', outfilename, '\n', sep = '')
   write.csv(out_metric, outfilename)
   
