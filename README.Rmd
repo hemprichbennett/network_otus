@@ -2,7 +2,3 @@ Code for the MOTU section of the upcoming paper, made portable and reproducible
 
 (Dave Hemprich-Bennett, hemprich.bennett@gmail.com, @hammerheadbat)
 25/05/18
-
-First, the crudely formatted matrixes are formatted using 'scripts/data_generation/matrix_formatting.R'
-
-Then, the resulting matrixes were analysed using the LOTUS package, with 'scripts/data_generation/fine_network_netlevel.R'. This was done on QMUL's apocrita HPCC, using the array job submission script 'scripts/data_generation/in_net_OTU.sh'
