@@ -52,8 +52,45 @@ df[which(df$metric == 'SA'),'metric'] <- 'Specialisation asymmetry'
 df[which(df$metric == 'ISA'),'metric'] <- 'Interaction strength asymmetry'
 df$metric <- firstup(df$metric)
 
+cbPalette <- c("#bbcb4b",
+               "#5253b8",
+               "#9aa323",
+               "#8479e6",
+               "#8dbc4d",
+               "#4c2b7b",
+               "#42c87f",
+               "#c14ca7",
+               "#7ac163",
+               "#8b4fa4",
+               "#407f25",
+               "#d485e0",
+               "#858f29",
+               "#5488e3",
+               "#d19b2e",
+               "#445ba1",
+               "#dab45b",
+               "#66a1e5",
+               "#c46b27",
+               "#43c8ac",
+               "#c64538",
+               "#71bc79",
+               "#8c2b66",
+               "#347435",
+               "#dc79b5",
+               "#aeb867",
+               "#ab8cd9",
+               "#9b7821",
+               "#c24c6e",
+               "#717026",
+               "#cd535c",
+               "#d1a261",
+               "#852a1f",
+               "#e17d5e",
+               "#975a25")
+
+
 df <- df[-grep('coefficient', df$metric),]#There is zero point in plotting the values for this metric, they never change!
 #df$trial_clustering <- df$clustering*10
-line_plot(df, network = 'network', clustering = 'trial_clustering', metric = 'metric', value = 'value', plotname = '7 networks')
+line_plot(df, network = 'network', clustering = 'trial_clustering', metric = 'metric', value = 'value', plotname = '7 networks', colour = T, palette= cbPalette)
 
 line_plot(df[grep('Guanacaste', df$network),], network = 'network', clustering = 'trial_clustering', metric = 'metric', value = 'value', plotname = '2 networks')
