@@ -1,0 +1,757 @@
+"","metric","value","network","clustering"
+"1","cluster coefficient",0.116104868913858,"Beth_cr",910
+"2","cluster.coefficient.HL",0.456530240813441,"Beth_cr",910
+"3","cluster.coefficient.LL",0.410235985263368,"Beth_cr",910
+"4","cluster coefficient",0.0714285714285714,"hernani_dryforestdry",910
+"5","cluster.coefficient.HL",0.445898778359511,"hernani_dryforestdry",910
+"6","cluster.coefficient.LL",0.296035901271503,"hernani_dryforestdry",910
+"7","cluster coefficient",0.129380053908356,"hernani_dryforestwet",910
+"8","cluster.coefficient.HL",0.461437803440573,"hernani_dryforestwet",910
+"9","cluster.coefficient.LL",0.420744138634047,"hernani_dryforestwet",910
+"10","cluster coefficient",0.0767543859649123,"hernani_rainforestdry",910
+"11","cluster.coefficient.HL",0.379578549773868,"hernani_rainforestdry",910
+"12","cluster.coefficient.LL",0.219192634560907,"hernani_rainforestdry",910
+"13","cluster coefficient",0.110696517412935,"Jamaica",910
+"14","cluster.coefficient.HL",0.429681356878826,"Jamaica",910
+"15","cluster.coefficient.LL",0.357686626519714,"Jamaica",910
+"16","cluster coefficient",0.0400579150579151,"SAFE",910
+"17","cluster.coefficient.HL",0.222514100476186,"SAFE",910
+"18","cluster.coefficient.LL",0.207934245848938,"SAFE",910
+"19","cluster coefficient",0.142037302725968,"Texas",910
+"20","cluster.coefficient.HL",0.21720416692658,"Texas",910
+"21","cluster.coefficient.LL",0.417002591419522,"Texas",910
+"22","cluster coefficient",0.102141680395387,"Beth_cr",912
+"23","cluster.coefficient.HL",0.441283218448517,"Beth_cr",912
+"24","cluster.coefficient.LL",0.380969741159315,"Beth_cr",912
+"25","cluster coefficient",0.0661375661375661,"hernani_dryforestdry",912
+"26","cluster.coefficient.HL",0.439735131000191,"hernani_dryforestdry",912
+"27","cluster.coefficient.LL",0.281554790590935,"hernani_dryforestdry",912
+"28","cluster coefficient",0.105134474327628,"hernani_dryforestwet",912
+"29","cluster.coefficient.HL",0.468868741259407,"hernani_dryforestwet",912
+"30","cluster.coefficient.LL",0.385300475572849,"hernani_dryforestwet",912
+"31","cluster coefficient",0.0693877551020408,"hernani_rainforestdry",912
+"32","cluster.coefficient.HL",0.380615025301674,"hernani_rainforestdry",912
+"33","cluster.coefficient.LL",0.192438692098093,"hernani_rainforestdry",912
+"34","cluster coefficient",0.105555555555556,"Jamaica",912
+"35","cluster.coefficient.HL",0.414989280162942,"Jamaica",912
+"36","cluster.coefficient.LL",0.348862666518238,"Jamaica",912
+"37","cluster coefficient",0.0363153232949513,"SAFE",912
+"38","cluster.coefficient.HL",0.219139677282705,"SAFE",912
+"39","cluster.coefficient.LL",0.18614953886693,"SAFE",912
+"40","cluster coefficient",0.125,"Texas",912
+"41","cluster.coefficient.HL",0.199055724569372,"Texas",912
+"42","cluster.coefficient.LL",0.370088482303539,"Texas",912
+"43","cluster coefficient",0.100977198697068,"Beth_cr",914
+"44","cluster.coefficient.HL",0.432556171267749,"Beth_cr",914
+"45","cluster.coefficient.LL",0.373291904714176,"Beth_cr",914
+"46","cluster coefficient",0.0716180371352785,"hernani_dryforestdry",914
+"47","cluster.coefficient.HL",0.43976299842574,"hernani_dryforestdry",914
+"48","cluster.coefficient.LL",0.279907084785134,"hernani_dryforestdry",914
+"49","cluster coefficient",0.0982800982800983,"hernani_dryforestwet",914
+"50","cluster.coefficient.HL",0.471877658770863,"hernani_dryforestwet",914
+"51","cluster.coefficient.LL",0.359313196691837,"hernani_dryforestwet",914
+"52","cluster coefficient",0.0699588477366255,"hernani_rainforestdry",914
+"53","cluster.coefficient.HL",0.374299597777313,"hernani_rainforestdry",914
+"54","cluster.coefficient.LL",0.1875,"hernani_rainforestdry",914
+"55","cluster coefficient",0.110122358175751,"Jamaica",914
+"56","cluster.coefficient.HL",0.417572813330004,"Jamaica",914
+"57","cluster.coefficient.LL",0.352078193914929,"Jamaica",914
+"58","cluster coefficient",0.036,"SAFE",914
+"59","cluster.coefficient.HL",0.220749580637431,"SAFE",914
+"60","cluster.coefficient.LL",0.187716489118358,"SAFE",914
+"61","cluster coefficient",0.123086734693878,"Texas",914
+"62","cluster.coefficient.HL",0.199741903983983,"Texas",914
+"63","cluster.coefficient.LL",0.380303942220885,"Texas",914
+"64","cluster coefficient",0.100323624595469,"Beth_cr",916
+"65","cluster.coefficient.HL",0.43939858870656,"Beth_cr",916
+"66","cluster.coefficient.LL",0.369149042798436,"Beth_cr",916
+"67","cluster coefficient",0.0718085106382979,"hernani_dryforestdry",916
+"68","cluster.coefficient.HL",0.440269373414015,"hernani_dryforestdry",916
+"69","cluster.coefficient.LL",0.280763069753895,"hernani_dryforestdry",916
+"70","cluster coefficient",0.100737100737101,"hernani_dryforestwet",916
+"71","cluster.coefficient.HL",0.469471151947036,"hernani_dryforestwet",916
+"72","cluster.coefficient.LL",0.362808145766345,"hernani_dryforestwet",916
+"73","cluster coefficient",0.0693877551020408,"hernani_rainforestdry",916
+"74","cluster.coefficient.HL",0.369964256889196,"hernani_rainforestdry",916
+"75","cluster.coefficient.LL",0.184322033898305,"hernani_rainforestdry",916
+"76","cluster coefficient",0.108527131782946,"Jamaica",916
+"77","cluster.coefficient.HL",0.417006714553781,"Jamaica",916
+"78","cluster.coefficient.LL",0.349536821308084,"Jamaica",916
+"79","cluster coefficient",0.0358407079646018,"SAFE",916
+"80","cluster.coefficient.HL",0.220355573375592,"SAFE",916
+"81","cluster.coefficient.LL",0.184989049066719,"SAFE",916
+"82","cluster coefficient",0.123409669211196,"Texas",916
+"83","cluster.coefficient.HL",0.198946888024632,"Texas",916
+"84","cluster.coefficient.LL",0.379024977430033,"Texas",916
+"85","cluster coefficient",0.0942857142857143,"Beth_cr",918
+"86","cluster.coefficient.HL",0.426006988403302,"Beth_cr",918
+"87","cluster.coefficient.LL",0.337372305114241,"Beth_cr",918
+"88","cluster coefficient",0.0626450116009281,"hernani_dryforestdry",918
+"89","cluster.coefficient.HL",0.432768909955967,"hernani_dryforestdry",918
+"90","cluster.coefficient.LL",0.267703643061809,"hernani_dryforestdry",918
+"91","cluster coefficient",0.0903083700440529,"hernani_dryforestwet",918
+"92","cluster.coefficient.HL",0.47496112982638,"hernani_dryforestwet",918
+"93","cluster.coefficient.LL",0.339783281733746,"hernani_dryforestwet",918
+"94","cluster coefficient",0.0637065637065637,"hernani_rainforestdry",918
+"95","cluster.coefficient.HL",0.366676066114268,"hernani_rainforestdry",918
+"96","cluster.coefficient.LL",0.169592696629213,"hernani_rainforestdry",918
+"97","cluster coefficient",0.0995024875621891,"Jamaica",918
+"98","cluster.coefficient.HL",0.408821574605193,"Jamaica",918
+"99","cluster.coefficient.LL",0.328524089656713,"Jamaica",918
+"100","cluster coefficient",0.0345679012345679,"SAFE",918
+"101","cluster.coefficient.HL",0.21383030664595,"SAFE",918
+"102","cluster.coefficient.LL",0.175933514736255,"SAFE",918
+"103","cluster coefficient",0.113768961493582,"Texas",918
+"104","cluster.coefficient.HL",0.19362571291554,"Texas",918
+"105","cluster.coefficient.LL",0.346484610742305,"Texas",918
+"106","cluster coefficient",0.0926966292134832,"Beth_cr",920
+"107","cluster.coefficient.HL",0.425478268350459,"Beth_cr",920
+"108","cluster.coefficient.LL",0.33954933954934,"Beth_cr",920
+"109","cluster coefficient",0.0625,"hernani_dryforestdry",920
+"110","cluster.coefficient.HL",0.431060685923115,"hernani_dryforestdry",920
+"111","cluster.coefficient.LL",0.271889400921659,"hernani_dryforestdry",920
+"112","cluster coefficient",0.0905077262693157,"hernani_dryforestwet",920
+"113","cluster.coefficient.HL",0.476519148686457,"hernani_dryforestwet",920
+"114","cluster.coefficient.LL",0.336634523499262,"hernani_dryforestwet",920
+"115","cluster coefficient",0.0658914728682171,"hernani_rainforestdry",920
+"116","cluster.coefficient.HL",0.367975492456684,"hernani_rainforestdry",920
+"117","cluster.coefficient.LL",0.169971671388102,"hernani_rainforestdry",920
+"118","cluster coefficient",0.087215064420218,"Jamaica",920
+"119","cluster.coefficient.HL",0.418376053550215,"Jamaica",920
+"120","cluster.coefficient.LL",0.319772942289499,"Jamaica",920
+"121","cluster coefficient",0.0337726523887974,"SAFE",920
+"122","cluster.coefficient.HL",0.215241393792942,"SAFE",920
+"123","cluster.coefficient.LL",0.175763016157989,"SAFE",920
+"124","cluster coefficient",0.113953488372093,"Texas",920
+"125","cluster.coefficient.HL",0.190914988655701,"Texas",920
+"126","cluster.coefficient.LL",0.355735518292683,"Texas",920
+"127","cluster coefficient",0.0928270042194093,"Beth_cr",922
+"128","cluster.coefficient.HL",0.42408836010455,"Beth_cr",922
+"129","cluster.coefficient.LL",0.339348419820523,"Beth_cr",922
+"130","cluster coefficient",0.0625,"hernani_dryforestdry",922
+"131","cluster.coefficient.HL",0.429955336652191,"hernani_dryforestdry",922
+"132","cluster.coefficient.LL",0.271823505379273,"hernani_dryforestdry",922
+"133","cluster coefficient",0.0857142857142857,"hernani_dryforestwet",922
+"134","cluster.coefficient.HL",0.475684660167419,"hernani_dryforestwet",922
+"135","cluster.coefficient.LL",0.328282828282828,"hernani_dryforestwet",922
+"136","cluster coefficient",0.0658914728682171,"hernani_rainforestdry",922
+"137","cluster.coefficient.HL",0.367975492456684,"hernani_rainforestdry",922
+"138","cluster.coefficient.LL",0.170679886685552,"hernani_rainforestdry",922
+"139","cluster coefficient",0.0883218842001963,"Jamaica",922
+"140","cluster.coefficient.HL",0.417088952788357,"Jamaica",922
+"141","cluster.coefficient.LL",0.313676031962293,"Jamaica",922
+"142","cluster coefficient",0.0331695331695332,"SAFE",922
+"143","cluster.coefficient.HL",0.215801118319104,"SAFE",922
+"144","cluster.coefficient.LL",0.174149771092217,"SAFE",922
+"145","cluster coefficient",0.111175785797439,"Texas",922
+"146","cluster.coefficient.HL",0.191603169229359,"Texas",922
+"147","cluster.coefficient.LL",0.355946750076289,"Texas",922
+"148","cluster coefficient",0.0754950495049505,"Beth_cr",924
+"149","cluster.coefficient.HL",0.419154701662487,"Beth_cr",924
+"150","cluster.coefficient.LL",0.300105671010919,"Beth_cr",924
+"151","cluster coefficient",0.0556701030927835,"hernani_dryforestdry",924
+"152","cluster.coefficient.HL",0.430444047687612,"hernani_dryforestdry",924
+"153","cluster.coefficient.LL",0.254322958233573,"hernani_dryforestdry",924
+"154","cluster coefficient",0.0824949698189135,"hernani_dryforestwet",924
+"155","cluster.coefficient.HL",0.457776252530761,"hernani_dryforestwet",924
+"156","cluster.coefficient.LL",0.316718587746625,"hernani_dryforestwet",924
+"157","cluster coefficient",0.0627240143369176,"hernani_rainforestdry",924
+"158","cluster.coefficient.HL",0.371341498476223,"hernani_rainforestdry",924
+"159","cluster.coefficient.LL",0.162098930481283,"hernani_rainforestdry",924
+"160","cluster coefficient",0.0833333333333333,"Jamaica",924
+"161","cluster.coefficient.HL",0.406947394645058,"Jamaica",924
+"162","cluster.coefficient.LL",0.286886585210871,"Jamaica",924
+"163","cluster coefficient",0.0307116104868914,"SAFE",924
+"164","cluster.coefficient.HL",0.203307686757578,"SAFE",924
+"165","cluster.coefficient.LL",0.165196624741283,"SAFE",924
+"166","cluster coefficient",0.108485499462943,"Texas",924
+"167","cluster.coefficient.HL",0.18443878801541,"Texas",924
+"168","cluster.coefficient.LL",0.322066128531512,"Texas",924
+"169","cluster coefficient",0.0705596107055961,"Beth_cr",926
+"170","cluster.coefficient.HL",0.411968006656471,"Beth_cr",926
+"171","cluster.coefficient.LL",0.301012932407466,"Beth_cr",926
+"172","cluster coefficient",0.054989816700611,"hernani_dryforestdry",926
+"173","cluster.coefficient.HL",0.424201990977787,"hernani_dryforestdry",926
+"174","cluster.coefficient.LL",0.251802403204272,"hernani_dryforestdry",926
+"175","cluster coefficient",0.0824949698189135,"hernani_dryforestwet",926
+"176","cluster.coefficient.HL",0.46313036274703,"hernani_dryforestwet",926
+"177","cluster.coefficient.LL",0.314829092778206,"hernani_dryforestwet",926
+"178","cluster coefficient",0.0611888111888112,"hernani_rainforestdry",926
+"179","cluster.coefficient.HL",0.372093874711676,"hernani_rainforestdry",926
+"180","cluster.coefficient.LL",0.162303664921466,"hernani_rainforestdry",926
+"181","cluster coefficient",0.0810344827586207,"Jamaica",926
+"182","cluster.coefficient.HL",0.409384173091191,"Jamaica",926
+"183","cluster.coefficient.LL",0.285295387493704,"Jamaica",926
+"184","cluster coefficient",0.0308779761904762,"SAFE",926
+"185","cluster.coefficient.HL",0.203295516361202,"SAFE",926
+"186","cluster.coefficient.LL",0.161655216488257,"SAFE",926
+"187","cluster coefficient",0.104343220338983,"Texas",926
+"188","cluster.coefficient.HL",0.183690055670891,"Texas",926
+"189","cluster.coefficient.LL",0.323373705057892,"Texas",926
+"190","cluster coefficient",0.0695121951219512,"Beth_cr",928
+"191","cluster.coefficient.HL",0.41392863982173,"Beth_cr",928
+"192","cluster.coefficient.LL",0.298390759846863,"Beth_cr",928
+"193","cluster coefficient",0.054989816700611,"hernani_dryforestdry",928
+"194","cluster.coefficient.HL",0.422581252460251,"hernani_dryforestdry",928
+"195","cluster.coefficient.LL",0.250633586768041,"hernani_dryforestdry",928
+"196","cluster coefficient",0.0826612903225806,"hernani_dryforestwet",928
+"197","cluster.coefficient.HL",0.463303276606553,"hernani_dryforestwet",928
+"198","cluster.coefficient.LL",0.309798775153106,"hernani_dryforestwet",928
+"199","cluster coefficient",0.0598591549295775,"hernani_rainforestdry",928
+"200","cluster.coefficient.HL",0.371658147317324,"hernani_rainforestdry",928
+"201","cluster.coefficient.LL",0.161879895561358,"hernani_rainforestdry",928
+"202","cluster coefficient",0.0787671232876712,"Jamaica",928
+"203","cluster.coefficient.HL",0.403820623241437,"Jamaica",928
+"204","cluster.coefficient.LL",0.281414583487872,"Jamaica",928
+"205","cluster coefficient",0.0308320950965825,"SAFE",928
+"206","cluster.coefficient.HL",0.204180119196373,"SAFE",928
+"207","cluster.coefficient.LL",0.16118769883351,"SAFE",928
+"208","cluster coefficient",0.104736842105263,"Texas",928
+"209","cluster.coefficient.HL",0.181907412173465,"Texas",928
+"210","cluster.coefficient.LL",0.319567542787286,"Texas",928
+"211","cluster coefficient",0.0664556962025316,"Beth_cr",930
+"212","cluster.coefficient.HL",0.405919906466867,"Beth_cr",930
+"213","cluster.coefficient.LL",0.26075570520015,"Beth_cr",930
+"214","cluster coefficient",0.0495412844036697,"hernani_dryforestdry",930
+"215","cluster.coefficient.HL",0.430951145978539,"hernani_dryforestdry",930
+"216","cluster.coefficient.LL",0.244952044422009,"hernani_dryforestdry",930
+"217","cluster coefficient",0.0773381294964029,"hernani_dryforestwet",930
+"218","cluster.coefficient.HL",0.479248901763545,"hernani_dryforestwet",930
+"219","cluster.coefficient.LL",0.297197640117994,"hernani_dryforestwet",930
+"220","cluster coefficient",0.0610561056105611,"hernani_rainforestdry",930
+"221","cluster.coefficient.HL",0.364815975268413,"hernani_rainforestdry",930
+"222","cluster.coefficient.LL",0.158860759493671,"hernani_rainforestdry",930
+"223","cluster coefficient",0.0717557251908397,"Jamaica",930
+"224","cluster.coefficient.HL",0.397616874774088,"Jamaica",930
+"225","cluster.coefficient.LL",0.256410256410256,"Jamaica",930
+"226","cluster coefficient",0.0279085406859449,"SAFE",930
+"227","cluster.coefficient.HL",0.198379403377789,"SAFE",930
+"228","cluster.coefficient.LL",0.147469270817288,"SAFE",930
+"229","cluster coefficient",0.0996222851746931,"Texas",930
+"230","cluster.coefficient.HL",0.172639942387816,"Texas",930
+"231","cluster.coefficient.LL",0.291121356335515,"Texas",930
+"232","cluster coefficient",0.0662589194699287,"Beth_cr",932
+"233","cluster.coefficient.HL",0.40350199800234,"Beth_cr",932
+"234","cluster.coefficient.LL",0.253159533549057,"Beth_cr",932
+"235","cluster coefficient",0.0492700729927007,"hernani_dryforestdry",932
+"236","cluster.coefficient.HL",0.430551101304632,"hernani_dryforestdry",932
+"237","cluster.coefficient.LL",0.242530755711775,"hernani_dryforestdry",932
+"238","cluster coefficient",0.0807899461400359,"hernani_dryforestwet",932
+"239","cluster.coefficient.HL",0.480915920575868,"hernani_dryforestwet",932
+"240","cluster.coefficient.LL",0.298079260880136,"hernani_dryforestwet",932
+"241","cluster coefficient",0.0610561056105611,"hernani_rainforestdry",932
+"242","cluster.coefficient.HL",0.367066354876694,"hernani_rainforestdry",932
+"243","cluster.coefficient.LL",0.159547738693467,"hernani_rainforestdry",932
+"244","cluster coefficient",0.0730593607305936,"Jamaica",932
+"245","cluster.coefficient.HL",0.398503950991534,"Jamaica",932
+"246","cluster.coefficient.LL",0.25773067109184,"Jamaica",932
+"247","cluster coefficient",0.0274798927613941,"SAFE",932
+"248","cluster.coefficient.HL",0.196637467465892,"SAFE",932
+"249","cluster.coefficient.LL",0.146975352438535,"SAFE",932
+"250","cluster coefficient",0.101024208566108,"Texas",932
+"251","cluster.coefficient.HL",0.172088963472028,"Texas",932
+"252","cluster.coefficient.LL",0.292047801711419,"Texas",932
+"253","cluster coefficient",0.0665301944728762,"Beth_cr",934
+"254","cluster.coefficient.HL",0.404850742331353,"Beth_cr",934
+"255","cluster.coefficient.LL",0.247110278038113,"Beth_cr",934
+"256","cluster coefficient",0.0513761467889908,"hernani_dryforestdry",934
+"257","cluster.coefficient.HL",0.429817724092857,"hernani_dryforestdry",934
+"258","cluster.coefficient.LL",0.243749214725468,"hernani_dryforestdry",934
+"259","cluster coefficient",0.0795660036166365,"hernani_dryforestwet",934
+"260","cluster.coefficient.HL",0.477123117991111,"hernani_dryforestwet",934
+"261","cluster.coefficient.LL",0.301505901505902,"hernani_dryforestwet",934
+"262","cluster coefficient",0.0608552631578947,"hernani_rainforestdry",934
+"263","cluster.coefficient.HL",0.359404221212931,"hernani_rainforestdry",934
+"264","cluster.coefficient.LL",0.157360406091371,"hernani_rainforestdry",934
+"265","cluster coefficient",0.0723533891850724,"Jamaica",934
+"266","cluster.coefficient.HL",0.394177011591771,"Jamaica",934
+"267","cluster.coefficient.LL",0.254898445763046,"Jamaica",934
+"268","cluster coefficient",0.028,"SAFE",934
+"269","cluster.coefficient.HL",0.196210953346856,"SAFE",934
+"270","cluster.coefficient.LL",0.145783391726597,"SAFE",934
+"271","cluster coefficient",0.101014760147601,"Texas",934
+"272","cluster.coefficient.HL",0.17183389928434,"Texas",934
+"273","cluster.coefficient.LL",0.288164697193501,"Texas",934
+"274","cluster coefficient",0.0660660660660661,"Beth_cr",936
+"275","cluster.coefficient.HL",0.404251785417705,"Beth_cr",936
+"276","cluster.coefficient.LL",0.238326695725799,"Beth_cr",936
+"277","cluster coefficient",0.05,"hernani_dryforestdry",936
+"278","cluster.coefficient.HL",0.427224392361111,"hernani_dryforestdry",936
+"279","cluster.coefficient.LL",0.240327380952381,"hernani_dryforestdry",936
+"280","cluster coefficient",0.079646017699115,"hernani_dryforestwet",936
+"281","cluster.coefficient.HL",0.476231509592404,"hernani_dryforestwet",936
+"282","cluster.coefficient.LL",0.29764801297648,"hernani_dryforestwet",936
+"283","cluster coefficient",0.0623003194888179,"hernani_rainforestdry",936
+"284","cluster.coefficient.HL",0.356680184522719,"hernani_rainforestdry",936
+"285","cluster.coefficient.LL",0.161159600997506,"hernani_rainforestdry",936
+"286","cluster coefficient",0.0745614035087719,"Jamaica",936
+"287","cluster.coefficient.HL",0.3870005443137,"Jamaica",936
+"288","cluster.coefficient.LL",0.250899474706771,"Jamaica",936
+"289","cluster coefficient",0.0267345639719924,"SAFE",936
+"290","cluster.coefficient.HL",0.192406797114393,"SAFE",936
+"291","cluster.coefficient.LL",0.139188322594436,"SAFE",936
+"292","cluster coefficient",0.0958663148636763,"Texas",936
+"293","cluster.coefficient.HL",0.168287356524436,"Texas",936
+"294","cluster.coefficient.LL",0.282783909381353,"Texas",936
+"295","cluster coefficient",0.0577933450087566,"Beth_cr",938
+"296","cluster.coefficient.HL",0.390112069226244,"Beth_cr",938
+"297","cluster.coefficient.LL",0.222459196066234,"Beth_cr",938
+"298","cluster coefficient",0.0446280991735537,"hernani_dryforestdry",938
+"299","cluster.coefficient.HL",0.431821929101401,"hernani_dryforestdry",938
+"300","cluster.coefficient.LL",0.234012483806383,"hernani_dryforestdry",938
+"301","cluster coefficient",0.0759493670886076,"hernani_dryforestwet",938
+"302","cluster.coefficient.HL",0.480571768750112,"hernani_dryforestwet",938
+"303","cluster.coefficient.LL",0.274713185604275,"hernani_dryforestwet",938
+"304","cluster coefficient",0.0606060606060606,"hernani_rainforestdry",938
+"305","cluster.coefficient.HL",0.348943764568765,"hernani_rainforestdry",938
+"306","cluster.coefficient.LL",0.159855769230769,"hernani_rainforestdry",938
+"307","cluster coefficient",0.0744818652849741,"Jamaica",938
+"308","cluster.coefficient.HL",0.390819042930996,"Jamaica",938
+"309","cluster.coefficient.LL",0.238404660542236,"Jamaica",938
+"310","cluster coefficient",0.0274135876042908,"SAFE",938
+"311","cluster.coefficient.HL",0.191331410178899,"SAFE",938
+"312","cluster.coefficient.LL",0.133757868540477,"SAFE",938
+"313","cluster coefficient",0.0939702427564605,"Texas",938
+"314","cluster.coefficient.HL",0.163721071078726,"Texas",938
+"315","cluster.coefficient.LL",0.2667469963677,"Texas",938
+"316","cluster coefficient",0.0579083837510804,"Beth_cr",940
+"317","cluster.coefficient.HL",0.390585338127003,"Beth_cr",940
+"318","cluster.coefficient.LL",0.223519865534529,"Beth_cr",940
+"319","cluster coefficient",0.0429042904290429,"hernani_dryforestdry",940
+"320","cluster.coefficient.HL",0.434333953529581,"hernani_dryforestdry",940
+"321","cluster.coefficient.LL",0.232622243528284,"hernani_dryforestdry",940
+"322","cluster coefficient",0.0744849445324881,"hernani_dryforestwet",940
+"323","cluster.coefficient.HL",0.475029778006229,"hernani_dryforestwet",940
+"324","cluster.coefficient.LL",0.280025234602949,"hernani_dryforestwet",940
+"325","cluster coefficient",0.0602409638554217,"hernani_rainforestdry",940
+"326","cluster.coefficient.HL",0.352211197732105,"hernani_rainforestdry",940
+"327","cluster.coefficient.LL",0.16,"hernani_rainforestdry",940
+"328","cluster coefficient",0.0703517587939698,"Jamaica",940
+"329","cluster.coefficient.HL",0.387982364127648,"Jamaica",940
+"330","cluster.coefficient.LL",0.233789502423043,"Jamaica",940
+"331","cluster coefficient",0.0271707028942705,"SAFE",940
+"332","cluster.coefficient.HL",0.193692755725362,"SAFE",940
+"333","cluster.coefficient.LL",0.133170310701956,"SAFE",940
+"334","cluster coefficient",0.0935114503816794,"Texas",940
+"335","cluster.coefficient.HL",0.163930262787501,"Texas",940
+"336","cluster.coefficient.LL",0.269285520607375,"Texas",940
+"337","cluster coefficient",0.0570698466780239,"Beth_cr",942
+"338","cluster.coefficient.HL",0.391257115683326,"Beth_cr",942
+"339","cluster.coefficient.LL",0.224122128658991,"Beth_cr",942
+"340","cluster coefficient",0.0422764227642276,"hernani_dryforestdry",942
+"341","cluster.coefficient.HL",0.435201018121755,"hernani_dryforestdry",942
+"342","cluster.coefficient.LL",0.231592720352088,"hernani_dryforestdry",942
+"343","cluster coefficient",0.0733229329173167,"hernani_dryforestwet",942
+"344","cluster.coefficient.HL",0.473459135826646,"hernani_dryforestwet",942
+"345","cluster.coefficient.LL",0.278561354019746,"hernani_dryforestwet",942
+"346","cluster coefficient",0.0614035087719298,"hernani_rainforestdry",942
+"347","cluster.coefficient.HL",0.343304497803649,"hernani_rainforestdry",942
+"348","cluster.coefficient.LL",0.159274193548387,"hernani_rainforestdry",942
+"349","cluster coefficient",0.0664183736809435,"Jamaica",942
+"350","cluster.coefficient.HL",0.385883568559709,"Jamaica",942
+"351","cluster.coefficient.LL",0.233671668137688,"Jamaica",942
+"352","cluster coefficient",0.0277456647398844,"SAFE",942
+"353","cluster.coefficient.HL",0.191269433612825,"SAFE",942
+"354","cluster.coefficient.LL",0.133220502901354,"SAFE",942
+"355","cluster coefficient",0.0923134890730972,"Texas",942
+"356","cluster.coefficient.HL",0.16347323022271,"Texas",942
+"357","cluster.coefficient.LL",0.267182014582771,"Texas",942
+"358","cluster coefficient",0.0428877769835597,"Beth_cr",944
+"359","cluster.coefficient.HL",0.38273305296789,"Beth_cr",944
+"360","cluster.coefficient.LL",0.192932030330404,"Beth_cr",944
+"361","cluster coefficient",0.0386266094420601,"hernani_dryforestdry",944
+"362","cluster.coefficient.HL",0.436736010212941,"hernani_dryforestdry",944
+"363","cluster.coefficient.LL",0.222754624470693,"hernani_dryforestdry",944
+"364","cluster coefficient",0.0679611650485437,"hernani_dryforestwet",944
+"365","cluster.coefficient.HL",0.477083233695219,"hernani_dryforestwet",944
+"366","cluster.coefficient.LL",0.261588160168282,"hernani_dryforestwet",944
+"367","cluster coefficient",0.0587431693989071,"hernani_rainforestdry",944
+"368","cluster.coefficient.HL",0.33446517458347,"hernani_rainforestdry",944
+"369","cluster.coefficient.LL",0.154510022271715,"hernani_rainforestdry",944
+"370","cluster coefficient",0.0646022423918847,"Jamaica",944
+"371","cluster.coefficient.HL",0.373960892601024,"Jamaica",944
+"372","cluster.coefficient.LL",0.210384858248466,"Jamaica",944
+"373","cluster coefficient",0.0278925619834711,"SAFE",944
+"374","cluster.coefficient.HL",0.184415000890094,"SAFE",944
+"375","cluster.coefficient.LL",0.123916950561979,"SAFE",944
+"376","cluster coefficient",0.0888671875,"Texas",944
+"377","cluster.coefficient.HL",0.154980792527416,"Texas",944
+"378","cluster.coefficient.LL",0.244022570772762,"Texas",944
+"379","cluster coefficient",0.0423850574712644,"Beth_cr",946
+"380","cluster.coefficient.HL",0.379985176896622,"Beth_cr",946
+"381","cluster.coefficient.LL",0.189961774970916,"Beth_cr",946
+"382","cluster coefficient",0.0398860398860399,"hernani_dryforestdry",946
+"383","cluster.coefficient.HL",0.437602871477581,"hernani_dryforestdry",946
+"384","cluster.coefficient.LL",0.223179759142636,"hernani_dryforestdry",946
+"385","cluster coefficient",0.069060773480663,"hernani_dryforestwet",946
+"386","cluster.coefficient.HL",0.485231547998163,"hernani_dryforestwet",946
+"387","cluster.coefficient.LL",0.255808757819482,"hernani_dryforestwet",946
+"388","cluster coefficient",0.0572207084468665,"hernani_rainforestdry",946
+"389","cluster.coefficient.HL",0.333130595562476,"hernani_rainforestdry",946
+"390","cluster.coefficient.LL",0.154017857142857,"hernani_rainforestdry",946
+"391","cluster coefficient",0.0626349892008639,"Jamaica",946
+"392","cluster.coefficient.HL",0.375212125887072,"Jamaica",946
+"393","cluster.coefficient.LL",0.208464154892726,"Jamaica",946
+"394","cluster coefficient",0.0279358510087946,"SAFE",946
+"395","cluster.coefficient.HL",0.181808244127364,"SAFE",946
+"396","cluster.coefficient.LL",0.123920471360542,"SAFE",946
+"397","cluster coefficient",0.0870418848167539,"Texas",946
+"398","cluster.coefficient.HL",0.152908708891923,"Texas",946
+"399","cluster.coefficient.LL",0.242973562628337,"Texas",946
+"400","cluster coefficient",0.0436962750716332,"Beth_cr",948
+"401","cluster.coefficient.HL",0.380490756284951,"Beth_cr",948
+"402","cluster.coefficient.LL",0.190110284971945,"Beth_cr",948
+"403","cluster coefficient",0.0398860398860399,"hernani_dryforestdry",948
+"404","cluster.coefficient.HL",0.437602871477581,"hernani_dryforestdry",948
+"405","cluster.coefficient.LL",0.223179759142636,"hernani_dryforestdry",948
+"406","cluster coefficient",0.068870523415978,"hernani_dryforestwet",948
+"407","cluster.coefficient.HL",0.485167270147507,"hernani_dryforestwet",948
+"408","cluster.coefficient.LL",0.255518394648829,"hernani_dryforestwet",948
+"409","cluster coefficient",0.0570652173913044,"hernani_rainforestdry",948
+"410","cluster.coefficient.HL",0.332574803912075,"hernani_rainforestdry",948
+"411","cluster.coefficient.LL",0.153953229398664,"hernani_rainforestdry",948
+"412","cluster coefficient",0.0630387931034483,"Jamaica",948
+"413","cluster.coefficient.HL",0.375523496858562,"Jamaica",948
+"414","cluster.coefficient.LL",0.208539765319426,"Jamaica",948
+"415","cluster coefficient",0.02787816210635,"SAFE",948
+"416","cluster.coefficient.HL",0.181634757135133,"SAFE",948
+"417","cluster.coefficient.LL",0.12375531514075,"SAFE",948
+"418","cluster coefficient",0.0865447419986937,"Texas",948
+"419","cluster.coefficient.HL",0.152735822557961,"Texas",948
+"420","cluster.coefficient.LL",0.242551896463352,"Texas",948
+"421","cluster coefficient",0.0404390525707683,"Beth_cr",950
+"422","cluster.coefficient.HL",0.372263534146898,"Beth_cr",950
+"423","cluster.coefficient.LL",0.170699091156732,"Beth_cr",950
+"424","cluster coefficient",0.038130381303813,"hernani_dryforestdry",950
+"425","cluster.coefficient.HL",0.429540003554542,"hernani_dryforestdry",950
+"426","cluster.coefficient.LL",0.213570406703454,"hernani_dryforestdry",950
+"427","cluster coefficient",0.0558858501783591,"hernani_dryforestwet",950
+"428","cluster.coefficient.HL",0.48126480709962,"hernani_dryforestwet",950
+"429","cluster.coefficient.LL",0.22579065211307,"hernani_dryforestwet",950
+"430","cluster coefficient",0.0550351288056206,"hernani_rainforestdry",950
+"431","cluster.coefficient.HL",0.328117307665763,"hernani_rainforestdry",950
+"432","cluster.coefficient.LL",0.147838899803536,"hernani_rainforestdry",950
+"433","cluster coefficient",0.0582481102712317,"Jamaica",950
+"434","cluster.coefficient.HL",0.362047073664245,"Jamaica",950
+"435","cluster.coefficient.LL",0.186800146056475,"Jamaica",950
+"436","cluster coefficient",0.0266005410279531,"SAFE",950
+"437","cluster.coefficient.HL",0.177875436154781,"SAFE",950
+"438","cluster.coefficient.LL",0.115007411067194,"SAFE",950
+"439","cluster coefficient",0.082516339869281,"Texas",950
+"440","cluster.coefficient.HL",0.147352465344413,"Texas",950
+"441","cluster.coefficient.LL",0.218538308806354,"Texas",950
+"442","cluster coefficient",0.0407239819004525,"Beth_cr",952
+"443","cluster.coefficient.HL",0.370830549160027,"Beth_cr",952
+"444","cluster.coefficient.LL",0.171482075976458,"Beth_cr",952
+"445","cluster coefficient",0.039360393603936,"hernani_dryforestdry",952
+"446","cluster.coefficient.HL",0.429852345733758,"hernani_dryforestdry",952
+"447","cluster.coefficient.LL",0.214796648273043,"hernani_dryforestdry",952
+"448","cluster coefficient",0.0576470588235294,"hernani_dryforestwet",952
+"449","cluster.coefficient.HL",0.483425434450665,"hernani_dryforestwet",952
+"450","cluster.coefficient.LL",0.222222222222222,"hernani_dryforestwet",952
+"451","cluster coefficient",0.0559440559440559,"hernani_rainforestdry",952
+"452","cluster.coefficient.HL",0.328562275930697,"hernani_rainforestdry",952
+"453","cluster.coefficient.LL",0.148635477582846,"hernani_rainforestdry",952
+"454","cluster coefficient",0.0606192760575665,"Jamaica",952
+"455","cluster.coefficient.HL",0.364669657278934,"Jamaica",952
+"456","cluster.coefficient.LL",0.188727456398372,"Jamaica",952
+"457","cluster coefficient",0.0269968763944668,"SAFE",952
+"458","cluster.coefficient.HL",0.177773585018673,"SAFE",952
+"459","cluster.coefficient.LL",0.115643685173887,"SAFE",952
+"460","cluster coefficient",0.0854497354497354,"Texas",952
+"461","cluster.coefficient.HL",0.145738746282101,"Texas",952
+"462","cluster.coefficient.LL",0.22314353633688,"Texas",952
+"463","cluster coefficient",0.0399549803038829,"Beth_cr",954
+"464","cluster.coefficient.HL",0.371337039281609,"Beth_cr",954
+"465","cluster.coefficient.LL",0.171328671328671,"Beth_cr",954
+"466","cluster coefficient",0.0393120393120393,"hernani_dryforestdry",954
+"467","cluster.coefficient.HL",0.428964704518672,"hernani_dryforestdry",954
+"468","cluster.coefficient.LL",0.214438884917798,"hernani_dryforestdry",954
+"469","cluster coefficient",0.0586854460093897,"hernani_dryforestwet",954
+"470","cluster.coefficient.HL",0.483581100247188,"hernani_dryforestwet",954
+"471","cluster.coefficient.LL",0.222564734895191,"hernani_dryforestwet",954
+"472","cluster coefficient",0.0562060889929742,"hernani_rainforestdry",954
+"473","cluster.coefficient.HL",0.327030160817976,"hernani_rainforestdry",954
+"474","cluster.coefficient.LL",0.148727984344423,"hernani_rainforestdry",954
+"475","cluster coefficient",0.0602928509905254,"Jamaica",954
+"476","cluster.coefficient.HL",0.364826458152721,"Jamaica",954
+"477","cluster.coefficient.LL",0.188099694901764,"Jamaica",954
+"478","cluster coefficient",0.0269968763944668,"SAFE",954
+"479","cluster.coefficient.HL",0.178120226186923,"SAFE",954
+"480","cluster.coefficient.LL",0.115618215967022,"SAFE",954
+"481","cluster coefficient",0.084915611814346,"Texas",954
+"482","cluster.coefficient.HL",0.145603257736382,"Texas",954
+"483","cluster.coefficient.LL",0.221530299591466,"Texas",954
+"484","cluster coefficient",0.0338906461816539,"Beth_cr",956
+"485","cluster.coefficient.HL",0.363099047820696,"Beth_cr",956
+"486","cluster.coefficient.LL",0.1551213109201,"Beth_cr",956
+"487","cluster coefficient",0.0368809272918862,"hernani_dryforestdry",956
+"488","cluster.coefficient.HL",0.431151423566523,"hernani_dryforestdry",956
+"489","cluster.coefficient.LL",0.206982085438677,"hernani_dryforestdry",956
+"490","cluster coefficient",0.0543161978661494,"hernani_dryforestwet",956
+"491","cluster.coefficient.HL",0.48697323558256,"hernani_dryforestwet",956
+"492","cluster.coefficient.LL",0.211178974643716,"hernani_dryforestwet",956
+"493","cluster coefficient",0.053388090349076,"hernani_rainforestdry",956
+"494","cluster.coefficient.HL",0.327898387856601,"hernani_rainforestdry",956
+"495","cluster.coefficient.LL",0.144702276707531,"hernani_rainforestdry",956
+"496","cluster coefficient",0.0561242499117543,"Jamaica",956
+"497","cluster.coefficient.HL",0.353606713627426,"Jamaica",956
+"498","cluster.coefficient.LL",0.168306187174112,"Jamaica",956
+"499","cluster coefficient",0.0258653480410803,"SAFE",956
+"500","cluster.coefficient.HL",0.174394187516179,"SAFE",956
+"501","cluster.coefficient.LL",0.107223303518709,"SAFE",956
+"502","cluster coefficient",0.0796654929577465,"Texas",956
+"503","cluster.coefficient.HL",0.138375492782275,"Texas",956
+"504","cluster.coefficient.LL",0.195014015780731,"Texas",956
+"505","cluster coefficient",0.034794396746498,"Beth_cr",958
+"506","cluster.coefficient.HL",0.364233424381285,"Beth_cr",958
+"507","cluster.coefficient.LL",0.158033947724669,"Beth_cr",958
+"508","cluster coefficient",0.0356020942408377,"hernani_dryforestdry",958
+"509","cluster.coefficient.HL",0.432089559671588,"hernani_dryforestdry",958
+"510","cluster.coefficient.LL",0.207355738744451,"hernani_dryforestdry",958
+"511","cluster coefficient",0.0545277507302824,"hernani_dryforestwet",958
+"512","cluster.coefficient.HL",0.48954487821622,"hernani_dryforestwet",958
+"513","cluster.coefficient.LL",0.213306278054479,"hernani_dryforestwet",958
+"514","cluster coefficient",0.0532786885245902,"hernani_rainforestdry",958
+"515","cluster.coefficient.HL",0.325645651618036,"hernani_rainforestdry",958
+"516","cluster.coefficient.LL",0.145797227036395,"hernani_rainforestdry",958
+"517","cluster coefficient",0.0574348132487667,"Jamaica",958
+"518","cluster.coefficient.HL",0.359563729540422,"Jamaica",958
+"519","cluster.coefficient.LL",0.169763990491325,"Jamaica",958
+"520","cluster coefficient",0.0253308128544423,"SAFE",958
+"521","cluster.coefficient.HL",0.177409672426996,"SAFE",958
+"522","cluster.coefficient.LL",0.108625203880161,"SAFE",958
+"523","cluster coefficient",0.0789359861591696,"Texas",958
+"524","cluster.coefficient.HL",0.13731010101872,"Texas",958
+"525","cluster.coefficient.LL",0.19380651459104,"Texas",958
+"526","cluster coefficient",0.032838506522717,"Beth_cr",960
+"527","cluster.coefficient.HL",0.364622738527256,"Beth_cr",960
+"528","cluster.coefficient.LL",0.156728276323493,"Beth_cr",960
+"529","cluster coefficient",0.0355648535564854,"hernani_dryforestdry",960
+"530","cluster.coefficient.HL",0.428805459382143,"hernani_dryforestdry",960
+"531","cluster.coefficient.LL",0.206207211319032,"hernani_dryforestdry",960
+"532","cluster coefficient",0.053921568627451,"hernani_dryforestwet",960
+"533","cluster.coefficient.HL",0.486123638039435,"hernani_dryforestwet",960
+"534","cluster.coefficient.LL",0.21289560405397,"hernani_dryforestwet",960
+"535","cluster coefficient",0.0543032786885246,"hernani_rainforestdry",960
+"536","cluster.coefficient.HL",0.325270151454989,"hernani_rainforestdry",960
+"537","cluster.coefficient.LL",0.146193771626298,"hernani_rainforestdry",960
+"538","cluster coefficient",0.0552622316085885,"Jamaica",960
+"539","cluster.coefficient.HL",0.355295561733083,"Jamaica",960
+"540","cluster.coefficient.LL",0.165963620731347,"Jamaica",960
+"541","cluster coefficient",0.0253021148036254,"SAFE",960
+"542","cluster.coefficient.HL",0.177301125609765,"SAFE",960
+"543","cluster.coefficient.LL",0.107779926928863,"SAFE",960
+"544","cluster coefficient",0.0767230169050715,"Texas",960
+"545","cluster.coefficient.HL",0.137485415407201,"Texas",960
+"546","cluster.coefficient.LL",0.192394578313253,"Texas",960
+"547","cluster coefficient",0.0298841987299216,"Beth_cr",962
+"548","cluster.coefficient.HL",0.354712693477476,"Beth_cr",962
+"549","cluster.coefficient.LL",0.145994306628711,"Beth_cr",962
+"550","cluster coefficient",0.0321428571428571,"hernani_dryforestdry",962
+"551","cluster.coefficient.HL",0.425370533158885,"hernani_dryforestdry",962
+"552","cluster.coefficient.LL",0.199116853381307,"hernani_dryforestdry",962
+"553","cluster coefficient",0.0513670256835128,"hernani_dryforestwet",962
+"554","cluster.coefficient.HL",0.497803692298073,"hernani_dryforestwet",962
+"555","cluster.coefficient.LL",0.200264812975836,"hernani_dryforestwet",962
+"556","cluster coefficient",0.0531135531135531,"hernani_rainforestdry",962
+"557","cluster.coefficient.HL",0.326584176977878,"hernani_rainforestdry",962
+"558","cluster.coefficient.LL",0.143700787401575,"hernani_rainforestdry",962
+"559","cluster coefficient",0.0523272622145129,"Jamaica",962
+"560","cluster.coefficient.HL",0.343122550860593,"Jamaica",962
+"561","cluster.coefficient.LL",0.155427749820273,"Jamaica",962
+"562","cluster coefficient",0.0239887111947319,"SAFE",962
+"563","cluster.coefficient.HL",0.171838141026565,"SAFE",962
+"564","cluster.coefficient.LL",0.102066200085396,"SAFE",962
+"565","cluster coefficient",0.0758276966892132,"Texas",962
+"566","cluster.coefficient.HL",0.133227594826847,"Texas",962
+"567","cluster.coefficient.LL",0.174612226277372,"Texas",962
+"568","cluster coefficient",0.0298083747338538,"Beth_cr",964
+"569","cluster.coefficient.HL",0.356486660766864,"Beth_cr",964
+"570","cluster.coefficient.LL",0.144026709762205,"Beth_cr",964
+"571","cluster coefficient",0.0335689045936396,"hernani_dryforestdry",964
+"572","cluster.coefficient.HL",0.424832715092017,"hernani_dryforestdry",964
+"573","cluster.coefficient.LL",0.198367808661926,"hernani_dryforestdry",964
+"574","cluster coefficient",0.0523303352412101,"hernani_dryforestwet",964
+"575","cluster.coefficient.HL",0.493859125859376,"hernani_dryforestwet",964
+"576","cluster.coefficient.LL",0.198922097011269,"hernani_dryforestwet",964
+"577","cluster coefficient",0.0523978685612789,"hernani_rainforestdry",964
+"578","cluster.coefficient.HL",0.328322915678006,"hernani_rainforestdry",964
+"579","cluster.coefficient.LL",0.143511450381679,"hernani_rainforestdry",964
+"580","cluster coefficient",0.0515907136715391,"Jamaica",964
+"581","cluster.coefficient.HL",0.345590794426826,"Jamaica",964
+"582","cluster.coefficient.LL",0.155326582578315,"Jamaica",964
+"583","cluster coefficient",0.0242733457019171,"SAFE",964
+"584","cluster.coefficient.HL",0.171946570992471,"SAFE",964
+"585","cluster.coefficient.LL",0.10218612113919,"SAFE",964
+"586","cluster coefficient",0.0747936726272352,"Texas",964
+"587","cluster.coefficient.HL",0.131948449763781,"Texas",964
+"588","cluster.coefficient.LL",0.171802636266477,"Texas",964
+"589","cluster coefficient",0.0300565770862801,"Beth_cr",966
+"590","cluster.coefficient.HL",0.354540244794914,"Beth_cr",966
+"591","cluster.coefficient.LL",0.143705336509404,"Beth_cr",966
+"592","cluster coefficient",0.0327144120247569,"hernani_dryforestdry",966
+"593","cluster.coefficient.HL",0.429076028924243,"hernani_dryforestdry",966
+"594","cluster.coefficient.LL",0.199048693969687,"hernani_dryforestdry",966
+"595","cluster coefficient",0.0532786885245902,"hernani_dryforestwet",966
+"596","cluster.coefficient.HL",0.492030720686811,"hernani_dryforestwet",966
+"597","cluster.coefficient.LL",0.198718992563643,"hernani_dryforestwet",966
+"598","cluster coefficient",0.0532859680284192,"hernani_rainforestdry",966
+"599","cluster.coefficient.HL",0.330486548740034,"hernani_rainforestdry",966
+"600","cluster.coefficient.LL",0.144786910197869,"hernani_rainforestdry",966
+"601","cluster coefficient",0.0515669515669516,"Jamaica",966
+"602","cluster.coefficient.HL",0.345745632127434,"Jamaica",966
+"603","cluster.coefficient.LL",0.154957553973847,"Jamaica",966
+"604","cluster coefficient",0.0242182709993869,"SAFE",966
+"605","cluster.coefficient.HL",0.171512523307821,"SAFE",966
+"606","cluster.coefficient.LL",0.103083129232099,"SAFE",966
+"607","cluster coefficient",0.0754266211604096,"Texas",966
+"608","cluster.coefficient.HL",0.130949361929795,"Texas",966
+"609","cluster.coefficient.LL",0.169711797450171,"Texas",966
+"610","cluster coefficient",0.0306768922974325,"Beth_cr",968
+"611","cluster.coefficient.HL",0.351653287414213,"Beth_cr",968
+"612","cluster.coefficient.LL",0.142265943012212,"Beth_cr",968
+"613","cluster coefficient",0.0305532617671346,"hernani_dryforestdry",968
+"614","cluster.coefficient.HL",0.42896896915592,"hernani_dryforestdry",968
+"615","cluster.coefficient.LL",0.196630510039234,"hernani_dryforestdry",968
+"616","cluster coefficient",0.0544061302681992,"hernani_dryforestwet",968
+"617","cluster.coefficient.HL",0.490028995480432,"hernani_dryforestwet",968
+"618","cluster.coefficient.LL",0.194210581020684,"hernani_dryforestwet",968
+"619","cluster coefficient",0.0524126455906822,"hernani_rainforestdry",968
+"620","cluster.coefficient.HL",0.331150720022983,"hernani_rainforestdry",968
+"621","cluster.coefficient.LL",0.143525179856115,"hernani_rainforestdry",968
+"622","cluster coefficient",0.0502447822726102,"Jamaica",968
+"623","cluster.coefficient.HL",0.342012098577229,"Jamaica",968
+"624","cluster.coefficient.LL",0.150363263268815,"Jamaica",968
+"625","cluster coefficient",0.0246844319775596,"SAFE",968
+"626","cluster.coefficient.HL",0.168352575100297,"SAFE",968
+"627","cluster.coefficient.LL",0.100008456659619,"SAFE",968
+"628","cluster coefficient",0.0757092763787058,"Texas",968
+"629","cluster.coefficient.HL",0.130636954916167,"Texas",968
+"630","cluster.coefficient.LL",0.16536994170096,"Texas",968
+"631","cluster coefficient",0.0294435440302539,"Beth_cr",970
+"632","cluster.coefficient.HL",0.346458648434927,"Beth_cr",970
+"633","cluster.coefficient.LL",0.133415075611607,"Beth_cr",970
+"634","cluster coefficient",0.029723991507431,"hernani_dryforestdry",970
+"635","cluster.coefficient.HL",0.42984264258509,"hernani_dryforestdry",970
+"636","cluster.coefficient.LL",0.192826919202095,"hernani_dryforestdry",970
+"637","cluster coefficient",0.0546519193233572,"hernani_dryforestwet",970
+"638","cluster.coefficient.HL",0.490793276673637,"hernani_dryforestwet",970
+"639","cluster.coefficient.LL",0.186163522012579,"hernani_dryforestwet",970
+"640","cluster coefficient",0.0494752623688156,"hernani_rainforestdry",970
+"641","cluster.coefficient.HL",0.331989401918027,"hernani_rainforestdry",970
+"642","cluster.coefficient.LL",0.142067620286086,"hernani_rainforestdry",970
+"643","cluster coefficient",0.0477685579726396,"Jamaica",970
+"644","cluster.coefficient.HL",0.341926163378915,"Jamaica",970
+"645","cluster.coefficient.LL",0.142372503746911,"Jamaica",970
+"646","cluster coefficient",0.0242476995772196,"SAFE",970
+"647","cluster.coefficient.HL",0.165033859303836,"SAFE",970
+"648","cluster.coefficient.LL",0.0962128887660803,"SAFE",970
+"649","cluster coefficient",0.0723019670388091,"Texas",970
+"650","cluster.coefficient.HL",0.128732258587258,"Texas",970
+"651","cluster.coefficient.LL",0.154062593478911,"Texas",970
+"652","cluster coefficient",0.0288223991216031,"Beth_cr",972
+"653","cluster.coefficient.HL",0.345460997397444,"Beth_cr",972
+"654","cluster.coefficient.LL",0.132523043556841,"Beth_cr",972
+"655","cluster coefficient",0.0312278211497516,"hernani_dryforestdry",972
+"656","cluster.coefficient.HL",0.428913180760116,"hernani_dryforestdry",972
+"657","cluster.coefficient.LL",0.194065002355158,"hernani_dryforestdry",972
+"658","cluster coefficient",0.0517015706806283,"hernani_dryforestwet",972
+"659","cluster.coefficient.HL",0.490920291525349,"hernani_dryforestwet",972
+"660","cluster.coefficient.LL",0.186769159096203,"hernani_dryforestwet",972
+"661","cluster coefficient",0.0481203007518797,"hernani_rainforestdry",972
+"662","cluster.coefficient.HL",0.329189290395057,"hernani_rainforestdry",972
+"663","cluster.coefficient.LL",0.142201834862385,"hernani_rainforestdry",972
+"664","cluster coefficient",0.0480574893330339,"Jamaica",972
+"665","cluster.coefficient.HL",0.338670822245452,"Jamaica",972
+"666","cluster.coefficient.LL",0.143053166216106,"Jamaica",972
+"667","cluster coefficient",0.023875,"SAFE",972
+"668","cluster.coefficient.HL",0.16496489343417,"SAFE",972
+"669","cluster.coefficient.LL",0.0939091846620207,"SAFE",972
+"670","cluster coefficient",0.0729888119339371,"Texas",972
+"671","cluster.coefficient.HL",0.12772180851703,"Texas",972
+"672","cluster.coefficient.LL",0.153345864661654,"Texas",972
+"673","cluster coefficient",0.0290490545354892,"Beth_cr",974
+"674","cluster.coefficient.HL",0.345413334065944,"Beth_cr",974
+"675","cluster.coefficient.LL",0.132409429841079,"Beth_cr",974
+"676","cluster coefficient",0.0311835577604536,"hernani_dryforestdry",974
+"677","cluster.coefficient.HL",0.428235775737656,"hernani_dryforestdry",974
+"678","cluster.coefficient.LL",0.19294815613834,"hernani_dryforestdry",974
+"679","cluster coefficient",0.0516002612671457,"hernani_dryforestwet",974
+"680","cluster.coefficient.HL",0.490406528615208,"hernani_dryforestwet",974
+"681","cluster.coefficient.LL",0.186581053415224,"hernani_dryforestwet",974
+"682","cluster coefficient",0.047976011994003,"hernani_rainforestdry",974
+"683","cluster.coefficient.HL",0.33013101292491,"hernani_rainforestdry",974
+"684","cluster.coefficient.LL",0.142156862745098,"hernani_rainforestdry",974
+"685","cluster coefficient",0.0484158857652834,"Jamaica",974
+"686","cluster.coefficient.HL",0.339209790735938,"Jamaica",974
+"687","cluster.coefficient.LL",0.14284403295538,"Jamaica",974
+"688","cluster coefficient",0.0235907623541098,"SAFE",974
+"689","cluster.coefficient.HL",0.164583931575718,"SAFE",974
+"690","cluster.coefficient.LL",0.0933252275844868,"SAFE",974
+"691","cluster coefficient",0.0717880794701987,"Texas",974
+"692","cluster.coefficient.HL",0.127534625378199,"Texas",974
+"693","cluster.coefficient.LL",0.153103900975244,"Texas",974
+"694","cluster coefficient",0.0294354838709677,"Beth_cr",976
+"695","cluster.coefficient.HL",0.334488468004623,"Beth_cr",976
+"696","cluster.coefficient.LL",0.125626295528576,"Beth_cr",976
+"697","cluster coefficient",0.0290729566648382,"hernani_dryforestdry",976
+"698","cluster.coefficient.HL",0.429817537477054,"hernani_dryforestdry",976
+"699","cluster.coefficient.LL",0.189372557533652,"hernani_dryforestdry",976
+"700","cluster coefficient",0.0458852867830424,"hernani_dryforestwet",976
+"701","cluster.coefficient.HL",0.492136053866697,"hernani_dryforestwet",976
+"702","cluster.coefficient.LL",0.177421798076195,"hernani_dryforestwet",976
+"703","cluster coefficient",0.0528255528255528,"hernani_rainforestdry",976
+"704","cluster.coefficient.HL",0.316624748955576,"hernani_rainforestdry",976
+"705","cluster.coefficient.LL",0.143528464017186,"hernani_rainforestdry",976
+"706","cluster coefficient",0.0448230234866027,"Jamaica",976
+"707","cluster.coefficient.HL",0.338266614784391,"Jamaica",976
+"708","cluster.coefficient.LL",0.132048953290539,"Jamaica",976
+"709","cluster coefficient",0.0209189391109451,"SAFE",976
+"710","cluster.coefficient.HL",0.158202301571872,"SAFE",976
+"711","cluster.coefficient.LL",0.0856700520188259,"SAFE",976
+"712","cluster coefficient",0.0720988127154347,"Texas",976
+"713","cluster.coefficient.HL",0.123438283365539,"Texas",976
+"714","cluster.coefficient.LL",0.135003833451286,"Texas",976
+"715","cluster coefficient",0.0286150324303701,"Beth_cr",978
+"716","cluster.coefficient.HL",0.329999361621586,"Beth_cr",978
+"717","cluster.coefficient.LL",0.12673456680306,"Beth_cr",978
+"718","cluster coefficient",0.0301866081229418,"hernani_dryforestdry",978
+"719","cluster.coefficient.HL",0.429299495726905,"hernani_dryforestdry",978
+"720","cluster.coefficient.LL",0.189156953103822,"hernani_dryforestdry",978
+"721","cluster coefficient",0.0475024485798237,"hernani_dryforestwet",978
+"722","cluster.coefficient.HL",0.492909993764855,"hernani_dryforestwet",978
+"723","cluster.coefficient.LL",0.174143861223269,"hernani_dryforestwet",978
+"724","cluster coefficient",0.0552220888355342,"hernani_rainforestdry",978
+"725","cluster.coefficient.HL",0.317508055853921,"hernani_rainforestdry",978
+"726","cluster.coefficient.LL",0.143157894736842,"hernani_rainforestdry",978
+"727","cluster coefficient",0.0448717948717949,"Jamaica",978
+"728","cluster.coefficient.HL",0.338854828198973,"Jamaica",978
+"729","cluster.coefficient.LL",0.130723467118415,"Jamaica",978
+"730","cluster coefficient",0.0230238627889635,"SAFE",978
+"731","cluster.coefficient.HL",0.158423040837738,"SAFE",978
+"732","cluster.coefficient.LL",0.0867751892408319,"SAFE",978
+"733","cluster coefficient",0.072762573964497,"Texas",978
+"734","cluster.coefficient.HL",0.123936159441352,"Texas",978
+"735","cluster.coefficient.LL",0.133591682963304,"Texas",978
+"736","cluster coefficient",0.0287838353030881,"Beth_cr",980
+"737","cluster.coefficient.HL",0.329713890538971,"Beth_cr",980
+"738","cluster.coefficient.LL",0.12657171469901,"Beth_cr",980
+"739","cluster coefficient",0.0301700493691717,"hernani_dryforestdry",980
+"740","cluster.coefficient.HL",0.428746283478853,"hernani_dryforestdry",980
+"741","cluster.coefficient.LL",0.188905141123571,"hernani_dryforestdry",980
+"742","cluster coefficient",0.0479686735193343,"hernani_dryforestwet",980
+"743","cluster.coefficient.HL",0.492052207716407,"hernani_dryforestwet",980
+"744","cluster.coefficient.LL",0.174319153724961,"hernani_dryforestwet",980
+"745","cluster coefficient",0.0545563549160671,"hernani_rainforestdry",980
+"746","cluster.coefficient.HL",0.318265261607748,"hernani_rainforestdry",980
+"747","cluster.coefficient.LL",0.142875920084122,"hernani_rainforestdry",980
+"748","cluster coefficient",0.0452878328815181,"Jamaica",980
+"749","cluster.coefficient.HL",0.338847659513727,"Jamaica",980
+"750","cluster.coefficient.LL",0.130263779748316,"Jamaica",980
+"751","cluster coefficient",0.0228587423026684,"SAFE",980
+"752","cluster.coefficient.HL",0.158526170035361,"SAFE",980
+"753","cluster.coefficient.LL",0.0873833949513993,"SAFE",980
+"754","cluster coefficient",0.0732090103397341,"Texas",980
+"755","cluster.coefficient.HL",0.123883385116895,"Texas",980
+"756","cluster.coefficient.LL",0.133448275862069,"Texas",980
