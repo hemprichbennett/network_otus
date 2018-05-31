@@ -50,7 +50,9 @@ df[which(df$network=='hernani_rainforestdry'), 'network'] <- 'La Selva wet, 2015
 df$network <- as.factor(df$network)
 
 df$metric <- as.factor(df$metric)
-
+df$metric <- gsub('.LL', '_lower', df$metric)
+df$metric <- gsub('.HL', '_higher', df$metric)
+df$metric <- gsub('\\.', ' ', df$metric)
 
 
 
@@ -107,6 +109,7 @@ for(i in 1:length(for_multiplot)){
     geom_vline(xintercept = 97)+
     scale_fill_manual(values=cbPalette)+
     scale_colour_manual(values=cbPalette)+
+    theme_bw()+
     theme(legend.position="none")+ #No legend
     theme(plot.margin = unit(c(0.5,0.5,0.5,0.5), "cm"))
 }
@@ -119,6 +122,7 @@ legend <- g_legend(ggplot(for_plot, aes(x = clustering, y = value, color = netwo
                      geom_vline(xintercept = 93)+
                      geom_vline(xintercept = 97)+
                      scale_fill_manual(values=cbPalette)+
+                     theme_bw()+
                      scale_colour_manual(values=cbPalette)) #Make the legend for it
 
 pdf('Figures/grid_plot.pdf')
@@ -145,9 +149,9 @@ for(i in 1: length(unique(hernani_subset$metric))){
     geom_point()+
     labs(x = 'Clustering', y = firstup(as.character(gsub('_', ' ',metric)))) +
     geom_smooth(method = lm, se = T)+
-    scale_x_continuous(breaks = seq(91, 98, 1))
-  scale_fill_manual(values=cbPalette)
-  scale_colour_manual(values=cbPalette)
+    scale_x_continuous(breaks = seq(91, 98, 1))+
+    theme_bw()
+  
   print(a)
   dev.off()
 }
@@ -165,7 +169,7 @@ for(i in 1:length(for_multiplot)){
   hernani_caption_metric <- gsub(' lower', ', \nlower level', hernani_caption_metric)
   hernani_caption_metric <- gsub(' higher', ', \nhigherlevel', hernani_caption_metric)
   for_plot <- hernani_subset[which(hernani_subset$metric == for_multiplot[i]),]
-  hernani_lst[[i]] <-  ggplot(for_plot, aes(x = clustering, y = Value, color = network)) +
+  hernani_lst[[i]] <-  ggplot(for_plot, aes(x = clustering, y = value, color = network)) +
     geom_point()+
     labs(x = 'Clustering', y = hernani_caption_metric) +
     geom_smooth(method = lm, se = T)+
