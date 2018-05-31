@@ -144,3 +144,4 @@ if(participant_metric == TRUE){
   
 }
 
+print('finished')
