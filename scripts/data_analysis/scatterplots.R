@@ -78,7 +78,7 @@ for(i in 1: length(unique(df$metric))){
 }
 
 
-for_multiplot <- c('connectance', 'robustness_lower', 'togetherness_lower', 'nestedness',  'niche overlap_higher')
+for_multiplot <- c('connectance', 'robustness_higher', 'togetherness_lower', 'nestedness',  'niche overlap_higher')
 for_multiplot <- for_multiplot[order(for_multiplot)]#Make them in alphabetical order
 
 
