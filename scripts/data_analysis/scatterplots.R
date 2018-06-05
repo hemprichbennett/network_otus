@@ -43,7 +43,7 @@ firstup <- function(x) {
 
 
 df[which(df$network=='SAFE'), 'network'] <- 'Malaysia'
-df[which(df$network=='Beth_CR'), 'network'] <- 'Guanacaste normal, 2009'
+df[which(df$network=='Beth_cr'), 'network'] <- 'Guanacaste normal, 2009'
 df[which(df$network=='hernani_dryforestdry'), 'network'] <- 'Guanacaste dry, 2015'
 df[which(df$network=='hernani_dryforestwet'), 'network'] <- 'Guanacaste wet, 2015'
 df[which(df$network=='hernani_rainforestdry'), 'network'] <- 'La Selva wet, 2015'
