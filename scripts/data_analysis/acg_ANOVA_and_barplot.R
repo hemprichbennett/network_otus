@@ -1,6 +1,6 @@
 ##################################################
 ## Project: Network OTUs
-## Script purpose: This script runs an ANOVA on all the LOTUS outputs, then makes a barplot of the resulting data
+## Script purpose: This script runs an ANOVA on the ACG 2015 LOTUS outputs, then makes a barplot of the resulting data
 ## Date:
 ## Author: Dave Hemprich-Bennett (hemprich.bennett@gmail.com)
 ## Notes
@@ -34,12 +34,10 @@ firstup <- function(x) {
   x
 } #A function to capitalise the metric names when making plots
 
+df <- df[grep('hernani_dry', df$network),]
 
-df[which(df$network=='SAFE'), 'network'] <- 'Malaysia'
-df[which(df$network=='Beth_CR'), 'network'] <- 'Guanacaste normal, 2009'
 df[which(df$network=='hernani_dryforestdry'), 'network'] <- 'Guanacaste dry, 2015'
 df[which(df$network=='hernani_dryforestwet'), 'network'] <- 'Guanacaste wet, 2015'
-df[which(df$network=='hernani_rainforestdry'), 'network'] <- 'La Selva wet, 2015'
 df$network <- as.factor(df$network)
 
 df$metric <- gsub('\\.', '_', df$metric)
@@ -114,7 +112,7 @@ for(i in 1:length(unique(effects_and_probabilities$met))){
 }
 
 rankings <- data.frame(ms, pure_f, just_set, modded, divd, modded_p)
-write.csv(rankings, 'summary_statistics/metric_rankings.csv')
+write.csv(rankings, 'summary_statistics/acg_2015/metric_rankings.csv')
 
 ####Reinstate rankings_minus later ####
 #rankings_minus <- rankings[-c(4,18),]#Get rid of compartments and number of species (HL), as they have huge values, being totally unaffected by clustering threshold
@@ -161,11 +159,10 @@ for(i in 1:nrow(rankings_minus)){
 }
 
 
-pdf('Figures/overall_rankings.pdf')
+pdf('Figures/acg_2015_overall_rankings.pdf')
 
 ggplot(data=rankings_minus, aes(x = reorder(ms, -pure_f), y = pure_f, fill = rankings_minus$colour)) +
   geom_bar(stat = 'identity')+
-  ggtitle('7 networks')+
   labs(x = 'Metric', y = 'F-value')+
   scale_fill_grey()+
   theme_bw()+
