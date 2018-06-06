@@ -91,9 +91,9 @@ cbPalette <- c("#bbcb4b",
 
 df <- df[-grep('coefficient', df$metric),]#There is zero point in plotting the values for this metric, they never change!
 #df$trial_clustering <- df$clustering*10
-pdf('Figures/7_networks_reliable_ranges.pdf')
+#pdf('Figures/7_networks_reliable_ranges.pdf')
 line_plot(df, network = 'network', clustering = 'trial_clustering', metric = 'metric', value = 'value', plotname = '7 networks', colour = T, palette= cbPalette)
-dev.off()
+#dev.off()
 pdf('Figures/2_networks_reliable_ranges.pdf')
 line_plot(df[grep('Guanacaste', df$network),], network = 'network', clustering = 'trial_clustering', metric = 'metric', value = 'value', plotname = '2 networks')
 dev.off()
