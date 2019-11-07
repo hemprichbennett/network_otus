@@ -44,6 +44,7 @@ df[which(df$network=='hernani_rainforestdry'), 'network'] <- 'La Selva wet, 2015
 df$metric <- gsub('\\.', '_', df$metric)
 df$metric <- gsub('HL', 'higher', df$metric)
 df$metric <- gsub('LL', 'lower', df$metric)
+df$metric <- gsub("H2", "H2'", df$metric)
 
 #df$metric <- as.factor(df$metric)
 
@@ -90,10 +91,23 @@ cbPalette <- c("#bbcb4b",
 
 
 df <- df[-grep('coefficient', df$metric),]#There is zero point in plotting the values for this metric, they never change!
+
+df$metric <- gsub('_', ' ', df$metric)
+df$metric <- gsub(' lower', ', lower', df$metric)
+df$metric <- gsub(' higher', ', higher', df$metric)
+
 #df$trial_clustering <- df$clustering*10
-#pdf('Figures/7_networks_reliable_ranges.pdf')
-line_plot(df, network = 'network', clustering = 'trial_clustering', metric = 'metric', value = 'value', plotname = '7 networks', colour = T, palette= cbPalette)
-#dev.off()
+pdf('Figures/7_networks_reliable_ranges.pdf')
+line_plot(df, network = 'network', clustering = 'trial_clustering', metric = 'metric', value = 'value', plotname = '7 networks', colour = T, palette= cbPalette, vertical_lines= c(93,97))
+dev.off()
 pdf('Figures/2_networks_reliable_ranges.pdf')
-line_plot(df[grep('Guanacaste', df$network),], network = 'network', clustering = 'trial_clustering', metric = 'metric', value = 'value', plotname = '2 networks')
+line_plot(df[grep('Guanacaste', df$network),], network = 'network', clustering = 'trial_clustering', metric = 'metric', value = 'value', plotname = '2 networks', vertical_lines= c(93,97))
+dev.off()
+
+
+jpeg('Figures/7_networks_reliable_ranges.jpg', units = "in", width = 7, height = 9, res = 300)
+line_plot(df, network = 'network', clustering = 'trial_clustering', metric = 'metric', value = 'value', plotname = '7 networks', colour = T, palette= cbPalette, vertical_lines= c(93,97))
+dev.off()
+jpeg('Figures/2_networks_reliable_ranges.jpg', units = "in", width = 7, height = 9, res = 300)
+line_plot(df[grep('Guanacaste', df$network),], network = 'network', clustering = 'trial_clustering', metric = 'metric', value = 'value', plotname = '2 networks', vertical_lines= c(93,97))
 dev.off()
