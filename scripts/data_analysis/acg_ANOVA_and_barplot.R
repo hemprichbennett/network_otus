@@ -130,11 +130,11 @@ for(i in 1:nrow(rankings_minus)){
   m = gsub(' ', '_',rankings_minus[i,1])
   #print(m)
   if(m %in% metric_types[,1]){
-    rankings_minus$colour[i] <- "qualitative" #qualitative networks
+    rankings_minus$colour[i] <- "Qualitative" #qualitative networks
     #print('qual')
   }
   else if(m %in% metric_types[,2]){
-    rankings_minus$colour[i] <- "quantitative" #quantitative networks
+    rankings_minus$colour[i] <- "Quantitative" #quantitative networks
     #print('quant')
   }
   else(print(m))
@@ -159,20 +159,29 @@ for(i in 1:nrow(rankings_minus)){
 }
 
 
-pdf('Figures/acg_2015_overall_rankings.pdf')
-
-ggplot(data=rankings_minus, aes(x = reorder(ms, -pure_f), y = pure_f, fill = rankings_minus$colour)) +
+bar_plot <- ggplot(data=rankings_minus, aes(x = reorder(ms, -pure_f), y = pure_f, fill = rankings_minus$colour)) +
   geom_bar(stat = 'identity')+
   labs(x = 'Metric', y = 'F-value')+
   scale_fill_grey()+
-  theme_bw()+
-  theme(axis.text.x = element_text(angle = 90, hjust = 1))+
+  theme_bw() + 
+  theme(panel.border = element_blank(), panel.grid.major = element_blank(),panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"),
+        axis.text.x = element_text(angle = 90, hjust = 1))+
   labs(fill = 'Metric type')+
   geom_vline(xintercept = 0.5+nrow(rankings_minus) -length(which(is.na(rankings_minus$for_signif)))) #Sort this, its bisecting a bar
 
+bar_plot
+
+pdf('Figures/acg_2015_overall_rankings.pdf')
+
+bar_plot
 
 
 
 
 
+dev.off()
+
+jpeg('Figures/acg_2015_overall_rankings.jpg', units = "in", width = 7, height = 9, res = 300)
+
+bar_plot
 dev.off()
