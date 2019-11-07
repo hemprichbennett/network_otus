@@ -10,19 +10,22 @@ basedir <- strsplit(dir, split ='/')[[1]][2]
 print(basedir)
 if(grepl('data', basedir)){
   library(here, lib.loc = '/data/home/btw863/r_packages/')
-  require(methods)
+  #require(methods)
   library(permute, lib.loc = '/data/home/btw863/r_packages/')
   library(lattice, lib.loc = '/data/home/btw863/r_packages/')
+  library(crayon, lib.loc = '/data/home/btw863/r_packages/')
+  library(backports, lib.loc = '/data/home/btw863/r_packages/')
+  library(vctrs, lib.loc = '/data/home/btw863/r_packages/')
   library(vegan, lib.loc = '/data/home/btw863/r_packages/')
   library(statnet.common, lib.loc = '/data/home/btw863/r_packages/')
   library(network, lib.loc = '/data/home/btw863/r_packages/')
   library(sna, lib.loc = '/data/home/btw863/r_packages/')
   library(bipartite, lib.loc = '/data/home/btw863/r_packages/')
   library(stringr, lib.loc = '/data/home/btw863/r_packages/')
-  library(reshape2, lib.loc = '/data/home/btw863/r_packages/')
+  #library(reshape2, lib.loc = '/data/home/btw863/r_packages/')
   library(LOTUS, lib.loc = '/data/home/btw863/r_packages/')
 }else{
-  library('here')
+  library(here)
   library(vegan)
   library(bipartite)
   library(stringr)
@@ -62,6 +65,7 @@ iteration <- as.numeric(args)
 
 #iteration <- 19
 metric_names <- c(names(networklevel(matrix(nrow = 3, ncol = 3, seq(1,9)))), 'modularity')
+print(metric_names)
 metric <- metric_names[iteration]
 #If a metric contains neither HL or LL then both greps will return a value of 0. Otherwise, one of them will return TRUE (a non-zero value)
 
@@ -124,6 +128,8 @@ if(length(grep('HL', metric)) + length(grep('LL', metric))==0){
   }
   
 }
+
+print(metric)
 if(metric== 'interaction strength asymmetry'){metric <- 'ISA'}
 if(metric== 'specialisation asymmetry'){metric <- 'SA'}
 
