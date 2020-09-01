@@ -145,7 +145,7 @@ pdf("Figures/grid_plot.pdf")
 grid.arrange(
   grobs = lst,
   layout_matrix = lay,
-  top = "7 networks",
+  top = "Global molecular dataset (seven networks)",
   heights = c(1, 1, 1, 0.5)
 )
 dev.off()
@@ -154,7 +154,7 @@ jpeg("Figures/grid_plot.jpg", units = "in", width = 7, height = 7, res = 300)
 grid.arrange(
   grobs = lst,
   layout_matrix = lay,
-  top = "7 networks",
+  top = "Global molecular dataset (seven networks)",
   heights = c(1, 1, 1, 0.5)
 )
 dev.off()
@@ -223,7 +223,7 @@ pdf("Figures/Guanacaste_grid_plot.pdf")
 grid.arrange(
   grobs = hernani_lst,
   layout_matrix = lay,
-  top = "2 networks",
+  top = "Guanacaste molecular dataset (subset of two networks)",
   heights = c(1, 1, 1, 0.5)
 )
 dev.off()
@@ -232,7 +232,7 @@ jpeg("Figures/Guanacaste_grid_plot.jpg", units = "in", width = 7, height = 7, re
 grid.arrange(
   grobs = hernani_lst,
   layout_matrix = lay,
-  top = "2 networks",
+  top = "Guanacaste molecular dataset (subset of two networks)",
   heights = c(1, 1, 1, 0.5)
 )
 dev.off()
