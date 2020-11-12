@@ -1,6 +1,4 @@
-Code for the MOTU section of the upcoming paper, made portable and reproducible
-
-(Dave Hemprich-Bennett, hemprich.bennett@gmail.com, @hammerheadbat) 25/05/18
+Code for the MOTU section of the paper
 
 First, the crudely formatted matrixes are formatted using 'scripts/data_generation/matrix_formatting.R'
 
